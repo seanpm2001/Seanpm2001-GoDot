@@ -54,6 +54,7 @@
 # [Other GoDot projects](#Other-GoDot-projects)
 
 - [`GoDot Launcher`](https://github.com/seanpm2001/GoDot_Launcher/)
+- [`Seanpm2001-GoDot`](https://github.com/seanpm2001/Seanpm2001-GoDot/) **The current project**
 
 ***
 
@@ -63,9 +64,9 @@
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Thursday, January 26th at 11:55 am PST)`
+**File version:** `4 (2023, Friday, January 27th at 6:56 am PST)`
 
-**Line count (including blank lines and compiler line):** `138`
+**Line count (including blank lines and compiler line):** `156`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -129,6 +130,23 @@
 - - [x] Added an entry for version 2
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+</details>
+  
+<details><summary><p lang="en"><b>Version 4 (2023, Friday, January 27th at 6:56 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Changes:**
+
+- [x] Updated the `Other GoDot projects` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
